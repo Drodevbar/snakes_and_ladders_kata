@@ -1,1 +1,1 @@
-__author__ = "Bartosz Drozd"
+__author__ = "drodevbar"
